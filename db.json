@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "name": "Adam Marcus",
+      "city": "UK",
+      "email": "adam123@gmail.com",
+      "contact": "83673677367635",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "Tommy",
+      "city": "Japan",
+      "email": "tom@gmail.com",
+      "contact": "83786646476",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "James Bond",
+      "email": "james@gmail.com",
+      "contact": "9484785787",
+      "city": "France",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "name": "Larry",
+      "email": "larrry@gmail.com",
+      "contact": "347846746",
+      "city": "UK",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "name": "moc",
+      "email": "sasasa",
+      "contact": "12233433323232323",
+      "address": "ddsdsdew",
+      "gender": "female",
+      "id": 5,
+      "city": "indos"
+    },
+    {
+      "name": "mdsdm",
+      "email": "dsjndsk@gmail.com",
+      "contact": "212121212121",
+      "city": "france",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "name": "moni",
+      "email": "monis@gmail.com",
+      "contact": "1212212122",
+      "city": "indo",
+      "gender": "female",
+      "id": 7
+    }
+  ]
+}
